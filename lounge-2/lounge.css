@@ -42,6 +42,7 @@ h2{
   background-image: url(images/cocktail.gif);
   background-repeat: no-repeat;
   line-height: 1em;
+  float: right;
 }
 div h2{
   color:black;
@@ -51,4 +52,18 @@ div h2{
 }
 .hyx h3{
   color:#d12c47;
+}
+.a{
+  font-style: italic;
+}
+.b{
+  font-weight: bold;
+}
+#u a:link , a:visited , a:hover{
+  text-decoration: none;
+  color:#302263;
+}
+.hyx a:link , a:visited , a:hover{
+  text-decoration: none;
+  color:#599655;
 }
