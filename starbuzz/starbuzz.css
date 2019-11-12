@@ -14,7 +14,7 @@ body {
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
   padding:          15px;
-  margin:           0px 330px 10px 10px;
+  margin:           0px 200px 10px 10px;
 
 }
 
@@ -22,9 +22,13 @@ body {
   background:       #efe5d0 url(images/background.gif) bottom right;
   font-size:        105%;
   padding:          15px;
-  margin:           0px 10px 10px 10px;
-  width:280px;
+  margin:           0px 190px 100px 10px;
+  width:220px;
   float:right;
+  position: absolute;
+  top:50px;
+  right:100px;
+
 }
 
 .b {
