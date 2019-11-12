@@ -26,7 +26,7 @@ h2{
   margin:30px;
   margin-right:250px;
   background-image: url(images/background.gif);
-  background-repeat:repeat-x;
+  background-repeat:no-repeat;
   background-position: top left;
 }
 .hyx{
